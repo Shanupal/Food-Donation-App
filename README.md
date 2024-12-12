@@ -52,5 +52,5 @@
 
 <h2>view project :</h2>
 
-<a href="https://kishor-23.github.io/food-donate/index.html" > view demo</a>
+<a href="" > view demo</a>
 
